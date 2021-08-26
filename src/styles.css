@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+}
+
+.movie-genre {
+  display: inline;
+  margin: 10px;
+  border: 2px solid;
+  padding: 10px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 30rem;
+}
+
+.movie {
+  margin-top: 1rem;
+  border: 2px solid;
+  padding: 10px;
+}
+
+.movie-container {
+  max-width: 30rem;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+}
